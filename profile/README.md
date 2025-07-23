@@ -87,8 +87,6 @@ We believe in the power of collaboration and welcome contributions from develope
 5. **Test** thoroughly
 6. **Submit** a pull request
 
-Check out our [Contributing Guide](CONTRIBUTING.md) for detailed instructions.
-
 ---
 
 ## 📞 Contact Us
