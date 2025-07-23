@@ -17,7 +17,7 @@
 
 Welcome to nova-cortex – where innovation meets excellence.
 
-Our mission is to deliver best GUI/Web UI that help or solves an important problem.
+Our mission is to deliver best AI Projects that help or solves an important problem.
 
 ### 💡 What We Do
 
