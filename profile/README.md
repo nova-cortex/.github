@@ -32,7 +32,7 @@ Our mission is to deliver best AI Projects that help or solves an important prob
 
 | Project | Description | Stars | Language |
 |---------|-------------|-------|----------|
-| [**yt-downloader-gui**](https://github.com/nova-cortex/yt-transcript-gpt) | yt-transcript-gpt is a Streamlit-based desktop/web app to extract YouTube video transcripts, enrich them with AI-powered analysis, and interact via chat—all in one place. | ![Stars](https://img.shields.io/github/stars/nova-cortex/yt-transcript-gpt?style=flat-square) | Python |
+| [**yt-transcript-gpt**](https://github.com/nova-cortex/yt-transcript-gpt) | yt-transcript-gpt is a Streamlit-based desktop/web app to extract YouTube video transcripts, enrich them with AI-powered analysis, and interact via chat—all in one place. | ![Stars](https://img.shields.io/github/stars/nova-cortex/yt-transcript-gpt?style=flat-square) | Python |
 
 </div>
 
@@ -105,9 +105,9 @@ We believe in the power of collaboration and welcome contributions from develope
 
 **⭐ Star our repositories if you find them useful!**
 
-Made with ❤️ by the uikraft-hub
+Made with ❤️ by the Ujjwal Nova
 
-*© 2025 Your Organization Name. All rights reserved.*
+*© 2025 nova-cortex. All rights reserved.*
 
 </div>
 
