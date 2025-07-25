@@ -2,22 +2,7 @@
 
 <div align="center">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/1e/53/69/1e53695f3e291ef561476285aac51784.gif"  />
-
-### Building the future, one commit at a time
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ujjwal-kumar-rai/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@ukr-projects" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.youtube.com/@UjjwalNova" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
-
+<img height="150" src="https://i.pinimg.com/originals/1e/53/69/1e53695f3e291ef561476285aac51784.gif"  />
 </div>
 
 ---
